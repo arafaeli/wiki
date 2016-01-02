@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/asaf/wiki.git"
+    "url": "git://github.com/arafaeli/wiki.git"
   },
-  "author": "asaf",
-  "license": ""
+  "author": "arafaeli",
+  "license": "GPL"
 }
